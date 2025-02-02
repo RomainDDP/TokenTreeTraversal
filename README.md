@@ -1,4 +1,4 @@
-# PROJET TOKEN TREE TRAVERSAL ROMAIN DUPONT
+# PROJET TOKEN TREE TRAVERSAL
 
 Crée une structure aborescente de processus qui se passe un token.
 
